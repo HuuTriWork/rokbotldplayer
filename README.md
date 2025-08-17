@@ -6,7 +6,7 @@
 
 ## 🖥️ Tính năng chính
 
-- Hổ trợ giả lập LDPlayer
+- Hỗ trợ giả lập LDPlayer
 - Tự động thu thập tài nguyên
 
 ---
