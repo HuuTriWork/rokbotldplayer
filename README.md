@@ -11,11 +11,19 @@
 
 ---
 
-## 🔧 Yêu cầu hệ thống
+## 🔧 Yêu cầu hệ thống & cài đặt
 
 - **Hệ điều hành:** Windows 
 - **Giả lập:** LDPlayer
 - **Python:** 3.8 hoặc cao hơn
+- Link tải python: https://www.python.org/
+- Link tải tesseract: https://drive.google.com/drive/folders/1YY1iIebfeqOfZoG9XVQqj-j8MmmjQsee?usp=sharing
+- - - - - - - - - - - - - - - - - - - - - -
+- Sau khi tải xong tiến hành cài python : https://www.youtube.com/watch?v=W99c8zVOkkg
+- Tải file bot về giải nén ra
+- Kéo file tesseract vào thư mục vừa được giải nén
+- Trên thanh địa chỉ xóa hết nhập cmd và enter
+- Sau đó nhập lệnh python main.py và enter đợi chạy
 
 ---
 
