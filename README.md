@@ -2,12 +2,13 @@
 
 ## 🔔 Update
 
-- 17/8/2025
+- 18/8/2025
 
 ## 🖥️ Tính năng chính
 
 - Hỗ trợ giả lập LDPlayer
 - Tự động thu thập tài nguyên
+- Tự động xóa sương mù
 
 ---
 
@@ -20,16 +21,16 @@
 - Link tải tesseract: https://drive.google.com/drive/folders/1YY1iIebfeqOfZoG9XVQqj-j8MmmjQsee?usp=sharing
 - - - - - - - - - - - - - - - - - - - - - -
 - Sau khi tải xong tiến hành cài python : https://www.youtube.com/watch?v=W99c8zVOkkg
-- Tải file bot về giải nén ra
-- Kéo file tesseract vào thư mục vừa được giải nén
-- Trên thanh địa chỉ xóa hết nhập cmd và enter
-- Sau đó nhập lệnh python main.py và enter đợi chạy
+- B1: Tải file bot về giải nén ra
+- B2: Kéo file tesseract vào thư mục vừa được giải nén
+- B3: Ấn mở start.bat để chạy
 
 ---
 
 ## 💡 Mẹo sử dụng
 
 - Kết nối thiết bị trước rồi mới dùng được
+- Thay ảnh trại trinh sát nếu khác ở folder data ( 1.png, 2.png, 3.png )
 - Sử dụng ngôn ngữ english
 - Độ phân giải 960 * 540 
 
